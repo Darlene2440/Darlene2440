@@ -9,7 +9,7 @@ Noções de Análise de Dados, Python, UX Writing, aplicativos, Criação de int
 
 ###Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darlenegithub2440&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darlene2440&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###Projetos
 
