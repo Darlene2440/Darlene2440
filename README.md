@@ -14,4 +14,5 @@ Noções de Análise de Dados, Python, UX Writing, aplicativos, Criação de int
 ###Linguagens utilizadas
 
 ###Contatos
+
 https://www.linkedin.com/in/darlene-domingos22/
