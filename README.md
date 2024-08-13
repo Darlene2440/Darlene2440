@@ -15,4 +15,4 @@ Noções de Análise de Dados, Python, UX Writing, aplicativos, Criação de int
 
 ###Contatos
 
-https://www.linkedin.com/in/darlene-domingos22/
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/darlene-domingos22/)
