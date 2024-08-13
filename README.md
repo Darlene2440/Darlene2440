@@ -13,7 +13,7 @@ Noções de Análise de Dados, Python, UX Writing, aplicativos, Criação de int
 
 ###Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darlene2440&repo=EBAC-ITAU.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Darlene2440&repo=Darlene2440.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###Linguagens utilizadas
 
