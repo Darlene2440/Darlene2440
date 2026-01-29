@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Olá, eu sou a Darlene!
 
-<!--
-**Darlene2440/Darlene2440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Tecnologia da Informação**, com início da graduação em dezembro de 2025.  
+Atualmente estou focada no aprendizado de lógica de programação, **algoritmos, Portugol e linguagem C, com o objetivo de conquistar uma vaga de estágio em TI.
 
-Here are some ideas to get you started:
+Tenho formação em Análise e Desenvolvimento de Sistemas e UX/UI Design, o que me permite unir pensamento lógico e experiência do usuário no desenvolvimento de soluções simples, organizadas e fáceis de usar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ 🧠 O que estou aprendendo
+- Lógica de programação  
+- Algoritmos  
+- Portugol (Visualg / Portugol Studio)  
+- Linguagem C (nível iniciante)  
+- Estruturas condicionais e de repetição  
+
+---
+
+ 📂 O que você vai encontrar aqui
+- Exercícios resolvidos em **Portugol**
+- Programas básicos em **linguagem C**
+- Projetos acadêmicos e de estudo
+- Códigos comentados e organizados para aprendizado
+
+---
+
+ 🎯 Objetivo
+Conseguir uma oportunidade de **Estágio em Tecnologia da Informação**, onde eu possa aprender na prática, evoluir tecnicamente e contribuir com o time.
+
+---
+
+ 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/darlene-domingos22/ 
+- E-mail: dar_silva@hotmail.com
